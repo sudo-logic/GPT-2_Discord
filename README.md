@@ -1,4 +1,4 @@
-# Train_GPT_2_on_Discord_Chats
+# Train OpenAI's GPT-2 on Discord Chats
 
 Retraining a Text Generation Model on Discord Chats using `gpt-2-simple` that wraps existing model fine-tuning and generation scripts for OpenAI's GPT-2.
 
